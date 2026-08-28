@@ -1,2 +1,41 @@
 # U-shaped_fiber_system_in_swm
-This repository contains analysis notebooks for characterizing U-fiber and long-range fiber systems in the human SWM. It includes preprocessing and statistical analysis to investigate their distinct microstructural properties from MRI datasets and assess their relationships with cortical functional organization through spatial variogram analyses.
+
+**Cite:**
+
+> *[Hwang, Y.](mailto:youngeun.hwang2@mail.mcgill.ca), Vavassori, L., Bautin, P., Rodriguez-Cruces, R., Gaspar-Martinez, E., Cabalo, DG., Ngo, A., Smith, M., Leech, R., Coronado-Leija, R., Petit, L., Avesani, P., Sarubbo, S., Evans, AC., Concha, L., & [Bernhardt, BC](mailto:boris.bernhardt@mcgill.ca) (2026). Dissociating radial and tangential fiber components in human superficial white matter and their associations with functional variability: implications for long- and short-range fiber organization. ...
+
+**DOI:** [TBD]()
+
+**Paper:** available at [TBD]()
+
+**Data repository:** available at [OSF(3T)]() and [OSF(7T)]()
+
+**Keywords:** Superficial white matter (SWM); U-fiber; Magnetic resonance imaging (MRI); Ultra-high field MRI; 7 Tesla MRI; Diffusion MRI; Functional MRI; Spatial variogram; multi-resolution discrete search (MRDS); Photogrammetry
+
+## Overview
+This repository contains the code and analysis notebooks for studying 
+-
+-
+-
+-
+
+## Dataset
+
+### Imaging Data
+
+
+## Repository content
+
+## Abstract
+Subcortical U-shaped fibers (U-fibers), which interconnect adjacent cortical gyri within the superficial white matter (SWM), are thought to play a key role in brain organization, plasticity, and function. However, these short-range fibers remain understudied, largely due to the difficulty of disentangling them from long-range fiber systems within the structurally complex SWM. Here, we aimed to dissociate U-fibers from long-range fibers in the human SWM and investigate their potential functional relevance using in-vivo high-field MRI. We implemented a surface-based framework to separate radial and tangential fiber components according to their orientation relative to the Laplacian streamlines within the SWM. These components broadly correspond to long-range and putative U-fiber systems, respectively, and were quantified using apparent fiber density (AFD), fractional anisotropy (FA), and mean diffusivity (MD). We further contextualized SWM fiber architecture by examining depth-dependent diffusion-derived microstructural profiles and their relationship with normative patterns of cortical organization and hierarchical specialization. The validity of the proposed fiber orientation separation framework was supported by tractography-based bundle analyses, while the anatomical accuracy of the tractography reconstructions was confirmed through comparison with post-mortem white matter dissection data. To assess their functional relevance, the fiber predominance map derived from radial and tangential AFD was related to spatial patterns of functional variability across the cortex. Regions with greater radial fiber contribution exhibited more gradual changes in functional similarity across geodesic distance, whereas tangential fiber-enriched regions showed more rapid local functional differentiation. These findings reveal distinct structural and functional signatures of radial and tangential SWM fiber components and provide a framework for investigating their contributions to cortical organization and functional specialization.
+
+## Open Data and Software
+This study was conducted using open datasets, listed below:
+- MICA-MICS: Multimodal MRI dataset for microstructure-informed connectomics (Royer et al., 2022)
+- MICA-PNI: Ultra-high field 7T MRI data (Cabalo et al., 2024)
+- BraDiPho: Brain dissection photogrammetry (Vavassori et al., 2025)
+
+We also utilized multiple open-source software packages, as detailed below:
+- superficial-white-matter (https://doi.org/10.5281/zenodo.11510179)
+- corticalDWI ()
+- *micapipe* (http://micapipe.readthedocs.io)
