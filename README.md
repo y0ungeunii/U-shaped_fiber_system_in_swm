@@ -2,7 +2,7 @@
 
 **Cite:**
 
-> *[Hwang, Y.](mailto:youngeun.hwang2@mail.mcgill.ca), Vavassori, L., Bautin, P., Rodriguez-Cruces, R., Gaspar-Martinez, E., Cabalo, DG., Ngo, A., Smith, M., Leech, R., Coronado-Leija, R., Petit, L., Avesani, P., Sarubbo, S., Evans, AC., Concha, L., & [Bernhardt, BC](mailto:boris.bernhardt@mcgill.ca) (2026). Dissociating radial and tangential fiber components in human superficial white matter and their associations with functional variability: implications for long- and short-range fiber organization. ...*
+> *[Hwang, Y.](mailto:youngeun.hwang2@mail.mcgill.ca), Vavassori, L., Bautin, P., Rodriguez-Cruces, R., Gaspar-Martinez, E., Cabalo, DG., Ngo, A., Smith, M., Leech, R., Coronado-Leija, R., Petit, L., Avesani, P., Sarubbo, S., Evans, AC., Concha, L., & [Bernhardt, BC](mailto:boris.bernhardt@mcgill.ca) (2026). Radial and tangential fiber components in human superficial white matter and their associations with macroscale function. ...*
 
 **DOI:** [TBD]()
 
